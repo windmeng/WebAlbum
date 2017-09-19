@@ -20,10 +20,7 @@ public class BaseActivity extends AppCompatActivity {
     private static DbxRequestConfig dbxRequestConfig;
     private static DbxClientV2 dbxClientV2;
     private static final String ACCESS_TOKEN = "vXWlcNPRjMAAAAAAAAABsSxCAcWpSBjmDlLVYy0g1hiBI7LO3YqXqKK0ElKznO6v";
-
-
-
-
+    
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
